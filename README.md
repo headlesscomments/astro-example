@@ -1,4 +1,4 @@
-# AStro Example
+# Astro Example
 
 Features:
 
